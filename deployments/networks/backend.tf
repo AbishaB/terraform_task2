@@ -1,4 +1,6 @@
 
+
+
 terraform {
   backend "gcs" {
     bucket  = "backend-resource-331609"
